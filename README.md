@@ -4,6 +4,8 @@
 
 A tiny session logger for [Claude Code](https://claude.com/claude-code). It keeps a plain-text, human-readable record of what you and Claude did each session — committed right inside your repo — so any future session can get up to speed in seconds.
 
+> Just want the one-file install? It's a single self-installing markdown file at [vedantforsure/uhmm-acktually.md](https://github.com/vedantforsure/uhmm-acktually.md).
+
 ## Install (one file, then chill)
 
 Drop the skill into your project, then run it once. The skill installs everything
