@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# per-machine hook state (if you test the logger inside this repo)
+/uhmm-acktually-logs/.state.json
+
+# node
+/node_modules
